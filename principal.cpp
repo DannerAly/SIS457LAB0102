@@ -12,5 +12,6 @@ int main() {
 	cout << "Solo un muchacho de 19 años amante a la producción audiovisual y la programación" << endl;
 	cout << "Desafio: En este semestre lograr cumplir con el desafío de la " << endl;
 	cout << "elaboración de un videojuego completo aunque me cueste y duela" << endl;
+	cout << "*********************************************************************"<< endl;
 	return 0;
 }                                                                                              
